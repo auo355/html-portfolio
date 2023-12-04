@@ -1,2 +1,3 @@
 # html-portfolio
-Augustine's first portfolio for html
+Augustine's first hosted html
+Thanks to the lectures by Dr. Angela Yu
